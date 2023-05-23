@@ -1,0 +1,84 @@
+C:\Users\rozzo\OneDrive\Documentos\Visual Studio 2013\Projects\Compiladores 2019\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\rozzo\OneDrive\Documentos\Visual Studio 2013\Projects\Compiladores 2019\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\rozzo\OneDrive\Documentos\Visual Studio 2013\Projects\Compiladores 2019\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\OneDrive\Documentos\Visual Studio 2013\Projects\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores 2019.csprojResolveAssemblyReference.cache
+C:\Users\rozzo\OneDrive\Documentos\Visual Studio 2013\Projects\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\rozzo\OneDrive\Documentos\Visual Studio 2013\Projects\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\rozzo\OneDrive\Documentos\Visual Studio 2013\Projects\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.GenerateResource.Cache
+C:\Users\rozzo\OneDrive\Documentos\Visual Studio 2013\Projects\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\rozzo\OneDrive\Documentos\Visual Studio 2013\Projects\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Compiladores 2019\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\rozzo\Desktop\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Compiladores 2019\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Compiladores 2019\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores 2019.csprojResolveAssemblyReference.cache
+C:\Users\rozzo\Desktop\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\rozzo\Desktop\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\rozzo\Desktop\Compiladores 2019\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.GenerateResource.Cache
+C:\Users\rozzo\Desktop\Compiladores 2019x\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\rozzo\Desktop\Compiladores 2019x\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Compiladores 2019x\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Compiladores 2019x\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Compiladores 2019x\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Compiladores 2019x\Compiladores 2019\obj\Debug\Compiladores 2019.csprojResolveAssemblyReference.cache
+C:\Users\rozzo\Desktop\Compiladores 2019x\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\rozzo\Desktop\Compiladores 2019x\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\rozzo\Desktop\Compiladores 2019x\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.GenerateResource.Cache
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint\Compiladores 2019\obj\Debug\Compiladores 2019.csprojResolveAssemblyReference.cache
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.GenerateResource.Cache
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint Falta archivo\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint Falta archivo\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint Falta archivo\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint Falta archivo\Compiladores 2019\obj\Debug\Compiladores 2019.csprojResolveAssemblyReference.cache
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint Falta archivo\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint Falta archivo\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint Falta archivo\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.GenerateResource.Cache
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint Falta archivo\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Compiladores 19 Lexi y Sint Falta archivo\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\rozzo\Desktop\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\rozzo\Desktop\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\rozzo\Desktop\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.csprojResolveAssemblyReference.cache
+C:\Users\rozzo\Desktop\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\rozzo\Desktop\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\rozzo\Desktop\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.GenerateResource.Cache
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.AssemblyReference.cache
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.GenerateResource.cache
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.CoreCompileInputs.cache
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\geras\Desktop\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.AssemblyReference.cache
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.GenerateResource.cache
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.CoreCompileInputs.cache
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\geras\Desktop\Nueva carpeta\Proyecto Final DOOES\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.GenerateResource.cache
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.CoreCompileInputs.cache
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
+C:\Users\geras\Desktop\Analizador\Compiladores 2019\obj\Debug\Compiladores 2019.csproj.AssemblyReference.cache

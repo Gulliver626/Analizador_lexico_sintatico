@@ -1,0 +1,16 @@
+# include < iostream.h >
+# include < conio.h >
+int main ( )
+{
+int numeroA ;
+int numeroB ;
+int suma ;
+std :: cout << ”Introduzca el primer número:\n” ;
+std :: cin >> numeroA ;
+std :: cout << ”Introduzca el segundo número:\n” ;
+std :: cin >> numeroB ;
+suma = numeroA + numeroB ;
+std :: cout << ”El resultado de la suma es:” << suma << :: std :: endl ;
+if ( a < b ) cout << ”a es menor que b” ;
+return 0 ;
+}
